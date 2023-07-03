@@ -1,0 +1,41 @@
+{
+  "gadjets": [
+    {
+      "type": "laptop",
+      "name": "macbook pro",
+      "year": 2017
+    },
+    {
+      "type": "laptop",
+      "name": "macbook air",
+      "year": 2019
+    },
+    {
+      "type": "computer",
+      "name": "windows",
+      "year": 2017
+    },
+    {
+      "type": "smartphone",
+      "name": "iphone",
+      "year": 2020
+    }
+  ],
+  "accessories": [
+    {
+      "type": "laptop case",
+      "color": "grey",
+      "size": 1
+    },
+    {
+      "type": "phone case",
+      "color": "black",
+      "size": 2
+    },
+    {
+      "type": "headphones",
+      "brand": "samsung",
+      "color": "black"
+    }
+  ]
+}
