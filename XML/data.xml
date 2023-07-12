@@ -1,0 +1,41 @@
+<techstore>
+	<gadjets>
+		<gadjet id = '1'>
+			<type>Laptop</type>
+			<name>Macbook Pro</name>
+			<year>2017</year>
+		</gadjet>
+		<gadjet id = '2'>
+			<type>Laptop</type>
+			<name>Macbook Air</name>
+			<year>2019</year>
+		</gadjet>
+		<gadjet id = '3'>
+			<type>Computer</type>
+			<name>Lenovo IdeaCentre</name>
+			<year>2019</year>
+		</gadjet>
+		<gadjet id = '4'>
+			<type>Smartphone</type>
+			<name>iPhone SE</name>
+			<year>2020</year>
+		</gadjet>
+	</gadjets>
+	<accessories>
+		<accessory id = '8'>
+			<type>Laptop case</type>
+			<color>Grey</color>
+			<size>1</size>
+		</accessory>
+		<accessory id = '10'>
+			<type>Phone case</type>
+			<color>Black</color>
+			<size>2</size>
+		</accessory>
+		<accessory id = '11'>
+			<type>Headphones</type>
+			<brand>Samsung</brand>
+			<color>black</color>
+		</accessory>
+	</accessories>
+</techstore>
